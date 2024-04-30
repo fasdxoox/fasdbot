@@ -18,18 +18,18 @@ from random import  choice, randint
 )
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/2f199ef466e7950dd5e79.jpg",
-        caption = f"""<b>  ⌯ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 . .<b>\n<a href="https://t.me/EF_19"> ⌯ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙺𝙸𝙽𝙶 ⛧</a></b>""",
+        photo=f"https://graph.org/file/72b1f87ac7a3dffcd07a4.png",
+        caption = f"""<b>  <b>\n<a href="https://t.me/EF_19"> ➮ 𝐰𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐬𝐨𝐮𝐫𝐜𝐞 𝐥𝐨𝐥</a></b>""",
 reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "‹ لتنصيب بوت ›", url=f"https://t.me/IC_19"),
+                        "𝐬𝐨𝐮𝐫𝐜𝐞 𝐥𝐨𝐥🧚‍♀", url=f"https://t.me/K55DD"),
                 ],[
                     
                 
                     InlineKeyboardButton(
-                        "‹ السورس ›", url=f"https://t.me/EF_19"),         
+                        "اضف البوت لمجموعتك او قناتك", url=f"http://t.me/LL0_BOT?startgroup"),         
                 ],
 
             ]
