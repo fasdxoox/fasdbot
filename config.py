@@ -16,8 +16,6 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://faresbakil77341:<password>@cluster0.9hibqpt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
-Muntazer = getenv("muntazer", "")
-
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 480))
 
 # Chat id of a group for logging bot s activities
