@@ -25,7 +25,7 @@ youtube-search
 youtube-search-python
 telegraph
 pytz
-git+https://github.com/LonamiWebs/Telethon@v1
+git+https://github.com/LonamiWebs/Telethon
 git+https://github.com/1danish-00/carbon-now-sh-api-wrapper.git
 git+https://github.com/buddhhu/img2html.git
-git+https://github.com/yt-dlp/yt-dlp@master
+git+https://github.com/yt-dlp/yt-dlp
